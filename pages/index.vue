@@ -3,8 +3,9 @@
     <div>
       <logo />
       <h1 class="title">
-        nuxtjs
+        nuxtjs - with cats
       </h1>
+      <img src="https://images.unsplash.com/photo-1533568367292-63cab2810e01?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=3578&q=80"/>
       <h2 class="subtitle">
         My astonishing Nuxt.js project
       </h2>
